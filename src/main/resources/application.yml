@@ -1,0 +1,9 @@
+VAR: CONTENIDO DE VALOR1 yaml
+my:
+  var1: 100 yaml
+  var2: 200 yaml
+spring:
+  profiles:
+    active: perfil1
+server:
+  port: 8081
